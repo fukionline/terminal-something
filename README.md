@@ -1,2 +1,2 @@
 # terminal-something
-something to learn rust with
+Something to show for learning Rust.
